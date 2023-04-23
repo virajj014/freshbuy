@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "330779378079",
+    "project_id": "fresh-buy-8f044",
+    "storage_bucket": "fresh-buy-8f044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330779378079:android:ef90b1a04c356f033e7daa",
+        "android_client_info": {
+          "package_name": "com.freshbuyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330779378079-03u4fv3fu41lkbig9eelpti2rgln47fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freshbuyapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "330779378079-dkbeitqvmnimf3e8rlsktaeve7095vv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8KVovdA7MxMMla8D3s1q6z7YnB5eIcnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330779378079-dkbeitqvmnimf3e8rlsktaeve7095vv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
